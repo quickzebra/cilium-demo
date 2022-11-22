@@ -1,5 +1,4 @@
 #!/bin/bash
-kubectl config use-context Super@wireguard-blog.ap-southeast-2.eksctl.io
 
 kubectl delete -f ./sw_l3_l4_policy.yaml
 kubectl delete -f ./sw_l3_l4_l7_policy.yaml
