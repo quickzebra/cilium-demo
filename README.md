@@ -3,6 +3,8 @@ This repo is based on the cilium star war [demo](https://github.com/cilium/star-
 
 Please install cilium and deploy demo application based on this [instruction](https://docs.cilium.io/en/stable/gettingstarted/http/#gs-http)
 
+the demo library to show CLI in terminal is at ./third_party
+
 ## Demonstrate L3-4 policy 
 ./demo1.sh
 
